@@ -23,8 +23,8 @@ while(cap.isOpened() is True):
     if(cont % 10 == 0):
         print("{} ({:5.2f} fps)".format(cont, 10.0 / (time.time() - startTime)))
         startTime = time.time()
-    # if(cont == 1450):
-    #     break
+    if(cont == 500):
+         break
 
     img_soma = img_soma + gray
 img_bg = (img_soma / cont).astype(np.uint8)
