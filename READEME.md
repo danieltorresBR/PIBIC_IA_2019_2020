@@ -10,10 +10,8 @@ Para criar um dataset é preciso:
          - dataset
              | train
              | val
-2 - Selecione frames que você deseja usar no dataset e coloque nesses
-diretórios;
-3 - rodar o script segmenta.py em cada um dos diretórios internos do
-dataset (train e val).
+2 - Selecione frames que você deseja usar no dataset e coloque nesses diretórios;
+3 - rodar o script segmenta.py em cada um dos diretórios internos do dataset (train e val).
 
 Para treinar a rede você precisa:
 1 - Copiar o diretório do dataset para dentro do diretório do detectron2;
