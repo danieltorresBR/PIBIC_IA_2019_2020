@@ -40,4 +40,4 @@ while(cap.isOpened() is True):
     img_soma = img_soma + gray
 img_bg = (img_soma / cont).astype(np.uint8)
 cap.release()
-cv2.imwrite('imagensExtraidas/bkd.bmp', img_bg)
+cv2.imwrite('imagensExtraidas/bkg.bmp', img_bg)
