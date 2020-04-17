@@ -91,3 +91,8 @@ http://g1.globo.com/espirito-santo/estv-2edicao/videos/v/laboratorio-de-pos-larv
 
 https://www.youtube.com/watch?v=fLb9o6OhhHM
 
+==========================================================================
+FERRAMENTAS
+
+
+https://github.com/abreheret/PixelAnnotationTool/releases
