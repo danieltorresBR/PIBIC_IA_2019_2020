@@ -96,5 +96,3 @@ FERRAMENTAS
 
 
 https://github.com/abreheret/PixelAnnotationTool/releases
-
-
